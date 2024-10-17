@@ -1,0 +1,4512 @@
+{
+  "page-1": [
+    {
+      "category": "Layer 1 (L1)",
+      "market_cap": "$1,821,424,484,358",
+      "num_coins": "174",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "5.5%",
+      "volume_last_day": "$29,559,329,782",
+      "url": "https://www.coingecko.com/en/categories/layer-1"
+    },
+    {
+      "category": "Proof of Work (PoW)",
+      "market_cap": "$1,290,440,202,566",
+      "num_coins": "170",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.9%",
+      "volume_last_day": "$14,871,729,490",
+      "url": "https://www.coingecko.com/en/categories/proof-of-work-pow"
+    },
+    {
+      "category": "Smart Contract Platform",
+      "market_cap": "$580,320,695,683",
+      "num_coins": "179",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.6%",
+      "volume_last_day": "$16,646,376,760",
+      "url": "https://www.coingecko.com/en/categories/smart-contract-platform"
+    },
+    {
+      "category": "Proof of Stake (PoS)",
+      "market_cap": "$540,531,311,197",
+      "num_coins": "135",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.5%",
+      "volume_last_day": "$14,797,913,107",
+      "url": "https://www.coingecko.com/en/categories/proof-of-stake-pos"
+    },
+    {
+      "category": "Andreessen Horowitz (a16z) Portfolio",
+      "market_cap": "$460,890,033,322",
+      "num_coins": "51",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.7%",
+      "volume_last_day": "$15,326,105,234",
+      "url": "https://www.coingecko.com/en/categories/andreessen-horowitz-a16z-portfolio"
+    },
+    {
+      "category": "Multicoin Capital Portfolio",
+      "market_cap": "$414,133,376,911",
+      "num_coins": "67",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.3%",
+      "volume_last_day": "$14,247,696,134",
+      "url": "https://www.coingecko.com/en/categories/multicoin-capital-portfolio"
+    },
+    {
+      "category": "Alameda Research Portfolio",
+      "market_cap": "$402,669,631,673",
+      "num_coins": "137",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.3%",
+      "volume_last_day": "$13,546,768,177",
+      "url": "https://www.coingecko.com/en/categories/alameda-research-portfolio"
+    },
+    {
+      "category": "Delphi Digital Portfolio",
+      "market_cap": "$390,087,993,863",
+      "num_coins": "55",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.3%",
+      "volume_last_day": "$12,688,745,521",
+      "url": "https://www.coingecko.com/en/categories/delphi-digital-portfolio"
+    },
+    {
+      "category": "Galaxy Digital Portfolio",
+      "market_cap": "$331,019,327,230",
+      "num_coins": "32",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.0%",
+      "volume_last_day": "$10,574,515,063",
+      "url": "https://www.coingecko.com/en/categories/galaxy-digital-portfolio"
+    },
+    {
+      "category": "Alleged SEC Securities",
+      "market_cap": "$216,111,512,067",
+      "num_coins": "46",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "5.0%",
+      "volume_last_day": "$4,101,315,830",
+      "url": "https://www.coingecko.com/en/categories/alleged-sec-securities"
+    },
+    {
+      "category": "Stablecoins",
+      "market_cap": "$173,278,639,020",
+      "num_coins": "171",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.7%",
+      "volume_last_day": "$34,266,333,689",
+      "url": "https://www.coingecko.com/en/categories/stablecoins"
+    },
+    {
+      "category": "USD Stablecoin",
+      "market_cap": "$166,126,084,399",
+      "num_coins": "90",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.5%",
+      "volume_last_day": "$30,237,205,568",
+      "url": "https://www.coingecko.com/en/categories/usd-stablecoin"
+    },
+    {
+      "category": "Fiat-backed Stablecoin",
+      "market_cap": "$160,292,117,515",
+      "num_coins": "37",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.7%",
+      "volume_last_day": "$33,286,087,294",
+      "url": "https://www.coingecko.com/en/categories/fiat-backed-stablecoin"
+    },
+    {
+      "category": "Exchange-based Tokens",
+      "market_cap": "$112,256,523,228",
+      "num_coins": "131",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.6%",
+      "volume_last_day": "$1,627,997,106",
+      "url": "https://www.coingecko.com/en/categories/exchange-based-tokens"
+    },
+    {
+      "category": "Centralized Exchange (CEX)",
+      "market_cap": "$101,785,072,723",
+      "num_coins": "42",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.5%",
+      "volume_last_day": "$811,849,015",
+      "url": "https://www.coingecko.com/en/categories/centralized-exchange-token-cex"
+    },
+    {
+      "category": "Pantera Capital Portfolio",
+      "market_cap": "$78,338,782,344",
+      "num_coins": "90",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "2.1%",
+      "volume_last_day": "$3,759,476,975",
+      "url": "https://www.coingecko.com/en/categories/pantera-capital-portfolio"
+    },
+    {
+      "category": "Decentralized Finance (DeFi)",
+      "market_cap": "$74,516,628,688",
+      "num_coins": "641",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.7%",
+      "volume_last_day": "$3,615,671,832",
+      "url": "https://www.coingecko.com/en/categories/decentralized-finance-defi"
+    },
+    {
+      "category": "Blockchain Capital Portfolio",
+      "market_cap": "$58,672,286,342",
+      "num_coins": "42",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "2.1%",
+      "volume_last_day": "$2,957,334,143",
+      "url": "https://www.coingecko.com/en/categories/blockchain-capital-portfolio"
+    },
+    {
+      "category": "DWF Labs Portfolio",
+      "market_cap": "$49,642,712,945",
+      "num_coins": "159",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.1%",
+      "volume_last_day": "$2,118,153,629",
+      "url": "https://www.coingecko.com/en/categories/dwf-labs-portfolio"
+    },
+    {
+      "category": "Meme",
+      "market_cap": "$45,221,785,046",
+      "num_coins": "1861",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.0%",
+      "volume_last_day": "$4,074,535,315",
+      "url": "https://www.coingecko.com/en/categories/meme-token"
+    },
+    {
+      "category": "Coinbase Ventures Portfolio",
+      "market_cap": "$37,405,743,069",
+      "num_coins": "88",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "12.6%",
+      "volume_last_day": "$3,218,151,756",
+      "url": "https://www.coingecko.com/en/categories/coinbase-ventures-portfolio"
+    },
+    {
+      "category": "Liquid Staking Tokens",
+      "market_cap": "$35,052,188,625",
+      "num_coins": "108",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.2%",
+      "volume_last_day": "$207,471,042",
+      "url": "https://www.coingecko.com/en/categories/liquid-staking-tokens"
+    },
+    {
+      "category": "Animoca Brands Portfolio",
+      "market_cap": "$34,299,572,761",
+      "num_coins": "151",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.3%",
+      "volume_last_day": "$1,356,599,910",
+      "url": "https://www.coingecko.com/en/categories/animoca-brands"
+    },
+    {
+      "category": "Wrapped-Tokens",
+      "market_cap": "$33,531,390,543",
+      "num_coins": "209",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.9%",
+      "volume_last_day": "$1,157,445,475",
+      "url": "https://www.coingecko.com/en/categories/wrapped-tokens"
+    },
+    {
+      "category": "DragonFly Capital Portfolio",
+      "market_cap": "$33,244,977,400",
+      "num_coins": "47",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "9.2%",
+      "volume_last_day": "$1,939,173,764",
+      "url": "https://www.coingecko.com/en/categories/dragonfly-capital-portfolio"
+    },
+    {
+      "category": "Dog-Themed",
+      "market_cap": "$31,587,598,288",
+      "num_coins": "375",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "5.8%",
+      "volume_last_day": "$1,933,529,663",
+      "url": "https://www.coingecko.com/en/categories/dog-themed-coins"
+    },
+    {
+      "category": "Liquid Staked ETH",
+      "market_cap": "$30,170,149,408",
+      "num_coins": "26",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.0%",
+      "volume_last_day": "$68,123,594",
+      "url": "https://www.coingecko.com/en/categories/liquid-staked-eth"
+    },
+    {
+      "category": "Binance Labs Portfolio",
+      "market_cap": "$28,031,848,528",
+      "num_coins": "140",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "14.4%",
+      "volume_last_day": "$3,253,159,086",
+      "url": "https://www.coingecko.com/en/categories/binance-labs-portfolio"
+    },
+    {
+      "category": "NFT",
+      "market_cap": "$27,988,737,785",
+      "num_coins": "397",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.3%",
+      "volume_last_day": "$1,962,598,592",
+      "url": "https://www.coingecko.com/en/categories/non-fungible-tokens-nft"
+    },
+    {
+      "category": "Artificial Intelligence (AI)",
+      "market_cap": "$26,938,636,130",
+      "num_coins": "191",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "11.5%",
+      "volume_last_day": "$1,601,012,569",
+      "url": "https://www.coingecko.com/en/categories/artificial-intelligence"
+    },
+    {
+      "category": "Eth 2.0 Staking",
+      "market_cap": "$26,235,196,886",
+      "num_coins": "7",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.6%",
+      "volume_last_day": "$27,316,040",
+      "url": "https://www.coingecko.com/en/categories/eth-2-0-staking"
+    },
+    {
+      "category": "Infrastructure",
+      "market_cap": "$24,370,484,510",
+      "num_coins": "108",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "8.6%",
+      "volume_last_day": "$2,053,790,408",
+      "url": "https://www.coingecko.com/en/categories/infrastructure"
+    },
+    {
+      "category": "DePIN",
+      "market_cap": "$19,907,900,111",
+      "num_coins": "117",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.1%",
+      "volume_last_day": "$1,118,683,129",
+      "url": "https://www.coingecko.com/en/categories/depin"
+    },
+    {
+      "category": "Layer 2 (L2)",
+      "market_cap": "$19,828,288,301",
+      "num_coins": "51",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "8.1%",
+      "volume_last_day": "$1,242,074,927",
+      "url": "https://www.coingecko.com/en/categories/layer-2"
+    },
+    {
+      "category": "Index Coop Defi Index",
+      "market_cap": "$18,849,722,581",
+      "num_coins": "10",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.8%",
+      "volume_last_day": "$1,212,643,893",
+      "url": "https://www.coingecko.com/en/categories/defi-pulse-index-dpi"
+    },
+    {
+      "category": "Circle Ventures Portfolio",
+      "market_cap": "$16,800,748,055",
+      "num_coins": "22",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "19.5%",
+      "volume_last_day": "$1,767,334,527",
+      "url": "https://www.coingecko.com/en/categories/circle-ventures-portfolio"
+    },
+    {
+      "category": "Paradigm Portfolio",
+      "market_cap": "$16,562,440,236",
+      "num_coins": "28",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.7%",
+      "volume_last_day": "$1,078,526,277",
+      "url": "https://www.coingecko.com/en/categories/paradigm-portfolio"
+    },
+    {
+      "category": "Gaming (GameFi)",
+      "market_cap": "$16,115,635,967",
+      "num_coins": "456",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "10.4%",
+      "volume_last_day": "$1,751,356,439",
+      "url": "https://www.coingecko.com/en/categories/gaming"
+    },
+    {
+      "category": "Elon Musk-Inspired",
+      "market_cap": "$15,868,025,395",
+      "num_coins": "83",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "2.3%",
+      "volume_last_day": "$573,002,304",
+      "url": "https://www.coingecko.com/en/categories/elon-musk-inspired-coins"
+    },
+    {
+      "category": "Decentralized Exchange (DEX)",
+      "market_cap": "$15,402,053,566",
+      "num_coins": "184",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.9%",
+      "volume_last_day": "$1,067,466,479",
+      "url": "https://www.coingecko.com/en/categories/decentralized-exchange"
+    },
+    {
+      "category": "DeFiance Capital Portfolio",
+      "market_cap": "$13,974,911,889",
+      "num_coins": "57",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.7%",
+      "volume_last_day": "$483,209,153",
+      "url": "https://www.coingecko.com/en/categories/defiance-capital-portfolio"
+    },
+    {
+      "category": "Binance Launchpad",
+      "market_cap": "$13,351,078,224",
+      "num_coins": "37",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.8%",
+      "volume_last_day": "$708,152,278",
+      "url": "https://www.coingecko.com/en/categories/binance-launchpad"
+    },
+    {
+      "category": "Zero Knowledge (ZK)",
+      "market_cap": "$12,639,582,395",
+      "num_coins": "49",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "8.3%",
+      "volume_last_day": "$637,917,518",
+      "url": "https://www.coingecko.com/en/categories/zero-knowledge-zk"
+    },
+    {
+      "category": "Yield Farming",
+      "market_cap": "$11,504,240,033",
+      "num_coins": "151",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.2%",
+      "volume_last_day": "$885,869,950",
+      "url": "https://www.coingecko.com/en/categories/yield-farming"
+    },
+    {
+      "category": "Storage",
+      "market_cap": "$10,179,043,249",
+      "num_coins": "39",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "1.0%",
+      "volume_last_day": "$337,495,820",
+      "url": "https://www.coingecko.com/en/categories/storage"
+    },
+    {
+      "category": "Automated Market Maker (AMM)",
+      "market_cap": "$9,841,284,412",
+      "num_coins": "70",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.5%",
+      "volume_last_day": "$992,662,037",
+      "url": "https://www.coingecko.com/en/categories/automated-market-maker-amm"
+    },
+    {
+      "category": "Oracle",
+      "market_cap": "$9,670,735,153",
+      "num_coins": "48",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.0%",
+      "volume_last_day": "$387,107,798",
+      "url": "https://www.coingecko.com/en/categories/oracle"
+    },
+    {
+      "category": "Play To Earn",
+      "market_cap": "$9,496,997,807",
+      "num_coins": "219",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "10.4%",
+      "volume_last_day": "$697,155,412",
+      "url": "https://www.coingecko.com/en/categories/play-to-earn"
+    },
+    {
+      "category": "Binance Launchpool",
+      "market_cap": "$9,448,877,809",
+      "num_coins": "50",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "22.0%",
+      "volume_last_day": "$1,572,379,481",
+      "url": "https://www.coingecko.com/en/categories/binance-launchpool"
+    },
+    {
+      "category": "Bitcoin Fork",
+      "market_cap": "$8,816,670,411",
+      "num_coins": "4",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.2%",
+      "volume_last_day": "$208,632,429",
+      "url": "https://www.coingecko.com/en/categories/bitcoin-fork"
+    },
+    {
+      "category": "Restaking",
+      "market_cap": "$8,778,345,426",
+      "num_coins": "37",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "9.5%",
+      "volume_last_day": "$747,289,247",
+      "url": "https://www.coingecko.com/en/categories/restaking"
+    },
+    {
+      "category": "Rollup",
+      "market_cap": "$8,747,186,300",
+      "num_coins": "29",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "11.6%",
+      "volume_last_day": "$729,687,133",
+      "url": "https://www.coingecko.com/en/categories/rollup"
+    },
+    {
+      "category": "Metaverse",
+      "market_cap": "$8,000,966,240",
+      "num_coins": "149",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.2%",
+      "volume_last_day": "$813,143,375",
+      "url": "https://www.coingecko.com/en/categories/metaverse"
+    },
+    {
+      "category": "Real World Assets (RWA)",
+      "market_cap": "$7,581,962,226",
+      "num_coins": "155",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.5%",
+      "volume_last_day": "$1,021,197,396",
+      "url": "https://www.coingecko.com/en/categories/real-world-assets-rwa"
+    },
+    {
+      "category": "OKX Ventures Portfolio",
+      "market_cap": "$7,416,014,421",
+      "num_coins": "90",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "15.6%",
+      "volume_last_day": "$1,505,003,649",
+      "url": "https://www.coingecko.com/en/categories/okx-ventures-portfolio"
+    },
+    {
+      "category": "Liquid Restaking Tokens",
+      "market_cap": "$7,315,916,549",
+      "num_coins": "25",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.2%",
+      "volume_last_day": "$81,377,042",
+      "url": "https://www.coingecko.com/en/categories/liquid-restaking-tokens"
+    },
+    {
+      "category": "Solana Meme",
+      "market_cap": "$6,840,877,857",
+      "num_coins": "513",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "9.5%",
+      "volume_last_day": "$848,660,875",
+      "url": "https://www.coingecko.com/en/categories/solana-meme-coins"
+    },
+    {
+      "category": "Data Availability",
+      "market_cap": "$6,697,684,813",
+      "num_coins": "9",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "10.9%",
+      "volume_last_day": "$497,783,398",
+      "url": "https://www.coingecko.com/en/categories/data-availability"
+    },
+    {
+      "category": "Layer 0 (L0)",
+      "market_cap": "$6,691,236,395",
+      "num_coins": "3",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "0.3%",
+      "volume_last_day": "$360,576,366",
+      "url": "https://www.coingecko.com/en/categories/layer-0-l0"
+    },
+    {
+      "category": "Privacy",
+      "market_cap": "$6,651,435,187",
+      "num_coins": "86",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.1%",
+      "volume_last_day": "$277,463,614",
+      "url": "https://www.coingecko.com/en/categories/privacy-coins"
+    },
+    {
+      "category": "Crypto-backed Stablecoin",
+      "market_cap": "$6,546,023,970",
+      "num_coins": "47",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "3.3%",
+      "volume_last_day": "$98,396,274",
+      "url": "https://www.coingecko.com/en/categories/crypto-backed-stablecoin"
+    },
+    {
+      "category": "Sequoia Capital Portfolio",
+      "market_cap": "$6,014,620,024",
+      "num_coins": "28",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "5.0%",
+      "volume_last_day": "$730,412,086",
+      "url": "https://www.coingecko.com/en/categories/sequoia-capital-portfolio"
+    },
+    {
+      "category": "Lending/Borrowing",
+      "market_cap": "$5,912,829,766",
+      "num_coins": "96",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "5.0%",
+      "volume_last_day": "$602,382,829",
+      "url": "https://www.coingecko.com/en/categories/lending-borrowing"
+    },
+    {
+      "category": "Gaming Blockchains",
+      "market_cap": "$5,555,228,614",
+      "num_coins": "15",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "13.3%",
+      "volume_last_day": "$177,217,239",
+      "url": "https://www.coingecko.com/en/categories/gaming-blockchains"
+    },
+    {
+      "category": "Internet of Things (IOT)",
+      "market_cap": "$5,464,545,275",
+      "num_coins": "20",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.3%",
+      "volume_last_day": "$149,948,921",
+      "url": "https://www.coingecko.com/en/categories/internet-of-things-iot"
+    },
+    {
+      "category": "Ether.fi Ecosystem",
+      "market_cap": "$5,433,227,118",
+      "num_coins": "5",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.8%",
+      "volume_last_day": "$173,406,923",
+      "url": "https://www.coingecko.com/en/categories/ether-fi-ecosystem"
+    },
+    {
+      "category": "Frog-Themed",
+      "market_cap": "$5,278,620,605",
+      "num_coins": "92",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "9.5%",
+      "volume_last_day": "$985,849,943",
+      "url": "https://www.coingecko.com/en/categories/frog-themed-coins"
+    },
+    {
+      "category": "eGirl Capital Portfolio",
+      "market_cap": "$5,106,464,946",
+      "num_coins": "9",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "16.5%",
+      "volume_last_day": "$703,528,721",
+      "url": "https://www.coingecko.com/en/categories/egirl-capital-portfolio"
+    },
+    {
+      "category": "The Boy\u2019s Club",
+      "market_cap": "$5,039,138,462",
+      "num_coins": "201",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.6%",
+      "volume_last_day": "$900,944,598",
+      "url": "https://www.coingecko.com/en/categories/the-boy-s-club"
+    },
+    {
+      "category": "AI Agents",
+      "market_cap": "$4,791,644,851",
+      "num_coins": "13",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "13.4%",
+      "volume_last_day": "$297,048,703",
+      "url": "https://www.coingecko.com/en/categories/ai-agents"
+    },
+    {
+      "category": "Optimism Superchain Ecosystem",
+      "market_cap": "$3,430,219,251",
+      "num_coins": "15",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "8.0%",
+      "volume_last_day": "$450,035,251",
+      "url": "https://www.coingecko.com/en/categories/superchain-ecosystem"
+    },
+    {
+      "category": "Gaming Utility Token",
+      "market_cap": "$3,280,562,795",
+      "num_coins": "69",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.0%",
+      "volume_last_day": "$272,988,724",
+      "url": "https://www.coingecko.com/en/categories/gaming-utility-token"
+    },
+    {
+      "category": "RWA Protocol",
+      "market_cap": "$3,085,023,033",
+      "num_coins": "8",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "0.1%",
+      "volume_last_day": "$502,319,864",
+      "url": "https://www.coingecko.com/en/categories/rwa-protocol"
+    },
+    {
+      "category": "Gaming Governance Token",
+      "market_cap": "$2,997,288,714",
+      "num_coins": "51",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.7%",
+      "volume_last_day": "$273,481,132",
+      "url": "https://www.coingecko.com/en/categories/gaming-governance-token"
+    },
+    {
+      "category": "Bridged WETH",
+      "market_cap": "$2,989,166,647",
+      "num_coins": "46",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.0%",
+      "volume_last_day": "$589,762,458",
+      "url": "https://www.coingecko.com/en/categories/bridged-weth"
+    },
+    {
+      "category": "Consensys Portfolio",
+      "market_cap": "$2,975,957,985",
+      "num_coins": "14",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.3%",
+      "volume_last_day": "$371,056,165",
+      "url": "https://www.coingecko.com/en/categories/consensys-portofolio"
+    },
+    {
+      "category": "Derivatives",
+      "market_cap": "$2,935,845,180",
+      "num_coins": "66",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "11.3%",
+      "volume_last_day": "$614,118,403",
+      "url": "https://www.coingecko.com/en/categories/decentralized-derivatives"
+    },
+    {
+      "category": "Stablecoin Protocol",
+      "market_cap": "$2,885,724,891",
+      "num_coins": "23",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "1.6%",
+      "volume_last_day": "$360,824,809",
+      "url": "https://www.coingecko.com/en/categories/stablecoin-protocol"
+    },
+    {
+      "category": "Cat-Themed",
+      "market_cap": "$2,825,632,401",
+      "num_coins": "257",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "10.2%",
+      "volume_last_day": "$356,124,125",
+      "url": "https://www.coingecko.com/en/categories/cat-themed-coins"
+    },
+    {
+      "category": "Bitcoin Sidechains",
+      "market_cap": "$2,778,897,985",
+      "num_coins": "9",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "5.2%",
+      "volume_last_day": "$90,105,548",
+      "url": "https://www.coingecko.com/en/categories/bitcoin-layer-2"
+    },
+    {
+      "category": "Entertainment",
+      "market_cap": "$2,635,042,347",
+      "num_coins": "53",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "8.8%",
+      "volume_last_day": "$111,034,137",
+      "url": "https://www.coingecko.com/en/categories/entertainment"
+    },
+    {
+      "category": "Modular Blockchain",
+      "market_cap": "$2,589,901,715",
+      "num_coins": "14",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "17.5%",
+      "volume_last_day": "$293,629,284",
+      "url": "https://www.coingecko.com/en/categories/modular-blockchain"
+    },
+    {
+      "category": "SocialFi",
+      "market_cap": "$2,513,888,064",
+      "num_coins": "74",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.0%",
+      "volume_last_day": "$399,150,664",
+      "url": "https://www.coingecko.com/en/categories/socialfi"
+    },
+    {
+      "category": "Liquid Staking Governance Tokens",
+      "market_cap": "$2,485,770,906",
+      "num_coins": "22",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "9.8%",
+      "volume_last_day": "$236,846,677",
+      "url": "https://www.coingecko.com/en/categories/liquid-staking-governance-tokens"
+    },
+    {
+      "category": "Bridge Governance Tokens",
+      "market_cap": "$2,446,997,974",
+      "num_coins": "26",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "11.9%",
+      "volume_last_day": "$207,497,772",
+      "url": "https://www.coingecko.com/en/categories/bridge-governance-tokens"
+    },
+    {
+      "category": "Cross-chain Communication",
+      "market_cap": "$2,230,158,994",
+      "num_coins": "18",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "12.3%",
+      "volume_last_day": "$412,282,312",
+      "url": "https://www.coingecko.com/en/categories/cross-chain-communication"
+    },
+    {
+      "category": "Analytics",
+      "market_cap": "$2,216,488,513",
+      "num_coins": "34",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "9.7%",
+      "volume_last_day": "$98,037,033",
+      "url": "https://www.coingecko.com/en/categories/analytics"
+    },
+    {
+      "category": "Decentralized Identifier (DID)",
+      "market_cap": "$1,796,383,841",
+      "num_coins": "25",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "2.5%",
+      "volume_last_day": "$288,266,932",
+      "url": "https://www.coingecko.com/en/categories/identity"
+    },
+    {
+      "category": "Sports",
+      "market_cap": "$1,790,755,260",
+      "num_coins": "99",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.3%",
+      "volume_last_day": "$85,802,598",
+      "url": "https://www.coingecko.com/en/categories/sports"
+    },
+    {
+      "category": "BRC-20",
+      "market_cap": "$1,660,454,997",
+      "num_coins": "70",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "3.2%",
+      "volume_last_day": "$392,108,033",
+      "url": "https://www.coingecko.com/en/categories/brc-20"
+    },
+    {
+      "category": "Dex Aggregator",
+      "market_cap": "$1,595,332,974",
+      "num_coins": "7",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "10.8%",
+      "volume_last_day": "$149,699,246",
+      "url": "https://www.coingecko.com/en/categories/dex-aggregator"
+    },
+    {
+      "category": "Inscriptions",
+      "market_cap": "$1,562,743,732",
+      "num_coins": "80",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "2.3%",
+      "volume_last_day": "$375,467,710",
+      "url": "https://www.coingecko.com/en/categories/inscriptions"
+    },
+    {
+      "category": "Tokenized Gold",
+      "market_cap": "$1,530,006,470",
+      "num_coins": "13",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "1.9%",
+      "volume_last_day": "$14,455,533",
+      "url": "https://www.coingecko.com/en/categories/tokenized-gold"
+    },
+    {
+      "category": "Perpetuals",
+      "market_cap": "$1,523,176,420",
+      "num_coins": "41",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.2%",
+      "volume_last_day": "$189,666,439",
+      "url": "https://www.coingecko.com/en/categories/decentralized-perpetuals"
+    },
+    {
+      "category": "Liquid Staked SOL",
+      "market_cap": "$1,492,550,371",
+      "num_coins": "34",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "10.7%",
+      "volume_last_day": "$53,428,143",
+      "url": "https://www.coingecko.com/en/categories/liquid-staked-sol"
+    },
+    {
+      "category": "Wallets",
+      "market_cap": "$1,463,681,578",
+      "num_coins": "26",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "4.0%",
+      "volume_last_day": "$68,997,603",
+      "url": "https://www.coingecko.com/en/categories/wallets"
+    },
+    {
+      "category": "Gaming Platform",
+      "market_cap": "$1,445,028,598",
+      "num_coins": "29",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "9.5%",
+      "volume_last_day": "$219,987,419",
+      "url": "https://www.coingecko.com/en/categories/gaming-platform"
+    },
+    {
+      "category": "Simulation Games",
+      "market_cap": "$1,413,754,052",
+      "num_coins": "5",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "10.9%",
+      "volume_last_day": "$111,627,425",
+      "url": "https://www.coingecko.com/en/categories/simulation-games"
+    },
+    {
+      "category": "Masternodes",
+      "market_cap": "$1,408,280,752",
+      "num_coins": "55",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "1.6%",
+      "volume_last_day": "$152,405,456",
+      "url": "https://www.coingecko.com/en/categories/masternodes"
+    },
+    {
+      "category": "Crypto-Backed Tokens",
+      "market_cap": "$1,406,816,256",
+      "num_coins": "158",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "10.9%",
+      "volume_last_day": "$78,053,251",
+      "url": "https://www.coingecko.com/en/categories/asset-backed-tokens"
+    }
+  ],
+  "page-2": [
+    {
+      "category": "Bridged WBTC",
+      "market_cap": "$1,405,057,248",
+      "num_coins": "33",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "37.7%",
+      "volume_last_day": "$65,549,394",
+      "url": "https://www.coingecko.com/en/categories/bridged-wbtc"
+    },
+    {
+      "category": "TokenFi Launchpad",
+      "market_cap": "$1,391,252,622",
+      "num_coins": "4",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.0%",
+      "volume_last_day": "$173,399,311",
+      "url": "https://www.coingecko.com/en/categories/tokenfi-launchpad"
+    },
+    {
+      "category": "Parallelized EVM",
+      "market_cap": "$1,339,419,092",
+      "num_coins": "3",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "32.1%",
+      "volume_last_day": "$292,646,710",
+      "url": "https://www.coingecko.com/en/categories/parallel-evm"
+    },
+    {
+      "category": "Launchpad",
+      "market_cap": "$1,263,953,551",
+      "num_coins": "103",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "1.8%",
+      "volume_last_day": "$82,152,044",
+      "url": "https://www.coingecko.com/en/categories/launchpad"
+    },
+    {
+      "category": "Card Games",
+      "market_cap": "$1,256,796,681",
+      "num_coins": "23",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "1.4%",
+      "volume_last_day": "$40,230,871",
+      "url": "https://www.coingecko.com/en/categories/card-games"
+    },
+    {
+      "category": "NFT Marketplace",
+      "market_cap": "$1,170,745,398",
+      "num_coins": "24",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "10.9%",
+      "volume_last_day": "$138,934,928",
+      "url": "https://www.coingecko.com/en/categories/nft-marketplace"
+    },
+    {
+      "category": "Base Meme",
+      "market_cap": "$1,113,658,120",
+      "num_coins": "106",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "2.7%",
+      "volume_last_day": "$51,333,480",
+      "url": "https://www.coingecko.com/en/categories/base-meme-coins"
+    },
+    {
+      "category": "Bridged USDC",
+      "market_cap": "$1,059,180,966",
+      "num_coins": "89",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "0.8%",
+      "volume_last_day": "$223,009,126",
+      "url": "https://www.coingecko.com/en/categories/bridged-usdc"
+    },
+    {
+      "category": "Account Abstraction",
+      "market_cap": "$1,055,472,196",
+      "num_coins": "14",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.8%",
+      "volume_last_day": "$82,197,417",
+      "url": "https://www.coingecko.com/en/categories/account-abstraction"
+    },
+    {
+      "category": "SideChain",
+      "market_cap": "$1,022,972,263",
+      "num_coins": "4",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.3%",
+      "volume_last_day": "$14,877,578",
+      "url": "https://www.coingecko.com/en/categories/sidechain"
+    },
+    {
+      "category": "Algorithmic Stablecoin",
+      "market_cap": "$987,250,096",
+      "num_coins": "15",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.7%",
+      "volume_last_day": "$6,370,744",
+      "url": "https://www.coingecko.com/en/categories/algorithmic-stablecoin"
+    },
+    {
+      "category": "Liquid Restaking Governance Tokens",
+      "market_cap": "$979,274,101",
+      "num_coins": "5",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "27.0%",
+      "volume_last_day": "$548,478,375",
+      "url": "https://www.coingecko.com/en/categories/liquid-restaking-governance-token"
+    },
+    {
+      "category": "Tap to Earn",
+      "market_cap": "$957,218,194",
+      "num_coins": "5",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "20.3%",
+      "volume_last_day": "$505,131,929",
+      "url": "https://www.coingecko.com/en/categories/tap-to-earn"
+    },
+    {
+      "category": "Telegram Apps",
+      "market_cap": "$950,919,706",
+      "num_coins": "126",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "41.2%",
+      "volume_last_day": "$434,952,421",
+      "url": "https://www.coingecko.com/en/categories/telegram_apps"
+    },
+    {
+      "category": "Seigniorage",
+      "market_cap": "$938,491,743",
+      "num_coins": "14",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.3%",
+      "volume_last_day": "$18,908,826",
+      "url": "https://www.coingecko.com/en/categories/seigniorage"
+    },
+    {
+      "category": "Avalanche L1",
+      "market_cap": "$931,057,605",
+      "num_coins": "5",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "17.3%",
+      "volume_last_day": "$32,218,633",
+      "url": "https://www.coingecko.com/en/categories/avalanche-subnet"
+    },
+    {
+      "category": "Rollups-as-a-Service (RaaS)",
+      "market_cap": "$922,303,186",
+      "num_coins": "4",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "16.8%",
+      "volume_last_day": "$76,711,679",
+      "url": "https://www.coingecko.com/en/categories/rollups-as-a-service-raas"
+    },
+    {
+      "category": "Synthetic Issuer",
+      "market_cap": "$865,460,914",
+      "num_coins": "17",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "8.9%",
+      "volume_last_day": "$96,589,054",
+      "url": "https://www.coingecko.com/en/categories/synthetic-assets"
+    },
+    {
+      "category": "LSDFi",
+      "market_cap": "$833,339,378",
+      "num_coins": "17",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "25.5%",
+      "volume_last_day": "$423,061,175",
+      "url": "https://www.coingecko.com/en/categories/lsdfi"
+    },
+    {
+      "category": "AI Meme",
+      "market_cap": "$813,346,524",
+      "num_coins": "21",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "20.1%",
+      "volume_last_day": "$108,201,474",
+      "url": "https://www.coingecko.com/en/categories/ai-meme-coins"
+    },
+    {
+      "category": "Curve Ecosystem",
+      "market_cap": "$794,076,339",
+      "num_coins": "10",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.9%",
+      "volume_last_day": "$163,476,892",
+      "url": "https://www.coingecko.com/en/categories/curve-ecosystem"
+    },
+    {
+      "category": "Axie Infinity Ecosystem",
+      "market_cap": "$785,934,646",
+      "num_coins": "2",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "5.2%",
+      "volume_last_day": "$29,031,545",
+      "url": "https://www.coingecko.com/en/categories/axie-infinity"
+    },
+    {
+      "category": "Breeding",
+      "market_cap": "$767,205,508",
+      "num_coins": "11",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "5.3%",
+      "volume_last_day": "$22,653,111",
+      "url": "https://www.coingecko.com/en/categories/breeding"
+    },
+    {
+      "category": "MEV Protection",
+      "market_cap": "$739,858,226",
+      "num_coins": "12",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "11.9%",
+      "volume_last_day": "$12,770,388",
+      "url": "https://www.coingecko.com/en/categories/mev-protection"
+    },
+    {
+      "category": "Fixed Interest",
+      "market_cap": "$735,171,544",
+      "num_coins": "7",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "30.1%",
+      "volume_last_day": "$424,379,244",
+      "url": "https://www.coingecko.com/en/categories/fixed-interest"
+    },
+    {
+      "category": "LRTfi",
+      "market_cap": "$710,602,325",
+      "num_coins": "4",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "31.9%",
+      "volume_last_day": "$418,514,269",
+      "url": "https://www.coingecko.com/en/categories/lrtfi"
+    },
+    {
+      "category": "Appchains",
+      "market_cap": "$706,744,358",
+      "num_coins": "6",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "3.2%",
+      "volume_last_day": "$23,289,531",
+      "url": "https://www.coingecko.com/en/categories/appchains"
+    },
+    {
+      "category": "Yield Tokenization Protocol",
+      "market_cap": "$702,111,015",
+      "num_coins": "3",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "32.4%",
+      "volume_last_day": "$418,278,786",
+      "url": "https://www.coingecko.com/en/categories/yield-tokenization"
+    },
+    {
+      "category": "Yield Aggregator",
+      "market_cap": "$684,685,601",
+      "num_coins": "48",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "3.0%",
+      "volume_last_day": "$65,286,023",
+      "url": "https://www.coingecko.com/en/categories/yield-aggregator"
+    },
+    {
+      "category": "Pump.fun Ecosystem",
+      "market_cap": "$654,542,775",
+      "num_coins": "192",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "24.6%",
+      "volume_last_day": "$81,219,344",
+      "url": "https://www.coingecko.com/en/categories/pump-fun"
+    },
+    {
+      "category": "DaoMaker Launchpad",
+      "market_cap": "$602,679,170",
+      "num_coins": "69",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "3.6%",
+      "volume_last_day": "$63,046,818",
+      "url": "https://www.coingecko.com/en/categories/daomaker-ecosystem"
+    },
+    {
+      "category": "RPG",
+      "market_cap": "$572,247,279",
+      "num_coins": "33",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "5.4%",
+      "volume_last_day": "$87,081,074",
+      "url": "https://www.coingecko.com/en/categories/rpg"
+    },
+    {
+      "category": "TON Meme",
+      "market_cap": "$568,147,822",
+      "num_coins": "57",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "8.1%",
+      "volume_last_day": "$147,505,919",
+      "url": "https://www.coingecko.com/en/categories/ton-meme-coins"
+    },
+    {
+      "category": "PolitiFi",
+      "market_cap": "$504,891,499",
+      "num_coins": "62",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "1.3%",
+      "volume_last_day": "$150,755,858",
+      "url": "https://www.coingecko.com/en/categories/politifi"
+    },
+    {
+      "category": "Prediction Markets",
+      "market_cap": "$504,938,726",
+      "num_coins": "16",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.7%",
+      "volume_last_day": "$6,805,980",
+      "url": "https://www.coingecko.com/en/categories/prediction-markets"
+    },
+    {
+      "category": "TRON Meme",
+      "market_cap": "$498,148,824",
+      "num_coins": "47",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "12.0%",
+      "volume_last_day": "$193,612,626",
+      "url": "https://www.coingecko.com/en/categories/tron-meme"
+    },
+    {
+      "category": "Sun Pump Ecosystem",
+      "market_cap": "$497,616,235",
+      "num_coins": "45",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "12.2%",
+      "volume_last_day": "$193,774,176",
+      "url": "https://www.coingecko.com/en/categories/sun-pump-ecosystem"
+    },
+    {
+      "category": "Olympus Pro Ecosystem",
+      "market_cap": "$483,168,124",
+      "num_coins": "27",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "1.1%",
+      "volume_last_day": "$23,945,453",
+      "url": "https://www.coingecko.com/en/categories/olympus-pro"
+    },
+    {
+      "category": "Decentralized Science (DeSci)",
+      "market_cap": "$468,554,737",
+      "num_coins": "25",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.1%",
+      "volume_last_day": "$7,972,909",
+      "url": "https://www.coingecko.com/en/categories/decentralized-science-desci"
+    },
+    {
+      "category": "NFTFi",
+      "market_cap": "$452,093,044",
+      "num_coins": "14",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "18.0%",
+      "volume_last_day": "$76,503,055",
+      "url": "https://www.coingecko.com/en/categories/nftfi"
+    },
+    {
+      "category": "Move To Earn",
+      "market_cap": "$443,370,744",
+      "num_coins": "21",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "2.5%",
+      "volume_last_day": "$59,634,859",
+      "url": "https://www.coingecko.com/en/categories/move-to-earn"
+    },
+    {
+      "category": "Sports Games",
+      "market_cap": "$442,893,702",
+      "num_coins": "7",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "5.8%",
+      "volume_last_day": "$44,199,478",
+      "url": "https://www.coingecko.com/en/categories/sports-games"
+    },
+    {
+      "category": "Layer 3 (L3)",
+      "market_cap": "$405,133,160",
+      "num_coins": "8",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "11.8%",
+      "volume_last_day": "$42,965,521",
+      "url": "https://www.coingecko.com/en/categories/layer-3-l3"
+    },
+    {
+      "category": "Insurance",
+      "market_cap": "$400,614,821",
+      "num_coins": "16",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.7%",
+      "volume_last_day": "$2,272,408",
+      "url": "https://www.coingecko.com/en/categories/insurance"
+    },
+    {
+      "category": "Gambling (GambleFi)",
+      "market_cap": "$400,554,372",
+      "num_coins": "51",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "11.4%",
+      "volume_last_day": "$7,606,592",
+      "url": "https://www.coingecko.com/en/categories/gambling"
+    },
+    {
+      "category": "Rebase Tokens",
+      "market_cap": "$395,540,141",
+      "num_coins": "14",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "3.6%",
+      "volume_last_day": "$1,187,072",
+      "url": "https://www.coingecko.com/en/categories/rebase-tokens"
+    },
+    {
+      "category": "Discord Bots",
+      "market_cap": "$386,158,076",
+      "num_coins": "17",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "20.4%",
+      "volume_last_day": "$16,677,704",
+      "url": "https://www.coingecko.com/en/categories/discord-bots"
+    },
+    {
+      "category": "Yearn Ecosystem",
+      "market_cap": "$385,726,023",
+      "num_coins": "10",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "3.5%",
+      "volume_last_day": "$69,758,156",
+      "url": "https://www.coingecko.com/en/categories/yearn-yfi-partnerships-mergers"
+    },
+    {
+      "category": "Runes",
+      "market_cap": "$341,090,820",
+      "num_coins": "34",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "10.1%",
+      "volume_last_day": "$10,112,449",
+      "url": "https://www.coingecko.com/en/categories/runes"
+    },
+    {
+      "category": "Quest-to-Earn",
+      "market_cap": "$328,999,427",
+      "num_coins": "4",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "3.3%",
+      "volume_last_day": "$5,654,815",
+      "url": "https://www.coingecko.com/en/categories/quest-to-earn"
+    },
+    {
+      "category": "Bridged USDT",
+      "market_cap": "$324,500,894",
+      "num_coins": "61",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.2%",
+      "volume_last_day": "$216,448,006",
+      "url": "https://www.coingecko.com/en/categories/bridged-usdt"
+    },
+    {
+      "category": "Compound Tokens",
+      "market_cap": "$308,375,986",
+      "num_coins": "9",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.5%",
+      "volume_last_day": "$1,525.75",
+      "url": "https://www.coingecko.com/en/categories/compound-tokens"
+    },
+    {
+      "category": "EUR Stablecoin",
+      "market_cap": "$304,873,106",
+      "num_coins": "16",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "14.6%",
+      "volume_last_day": "$12,582,583",
+      "url": "https://www.coingecko.com/en/categories/eur-stablecoin"
+    },
+    {
+      "category": "Poolz Finance Launchpad",
+      "market_cap": "$295,453,264",
+      "num_coins": "23",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.1%",
+      "volume_last_day": "$18,199,482",
+      "url": "https://www.coingecko.com/en/categories/poolz-finance-launchpad"
+    },
+    {
+      "category": "Guild and Scholarship",
+      "market_cap": "$293,107,478",
+      "num_coins": "11",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "12.4%",
+      "volume_last_day": "$68,173,883",
+      "url": "https://www.coingecko.com/en/categories/guild-scholarship"
+    },
+    {
+      "category": "Adventure Games",
+      "market_cap": "$287,137,579",
+      "num_coins": "9",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "1.3%",
+      "volume_last_day": "$30,962,767",
+      "url": "https://www.coingecko.com/en/categories/adventure-games"
+    },
+    {
+      "category": "Music",
+      "market_cap": "$281,190,192",
+      "num_coins": "12",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.9%",
+      "volume_last_day": "$18,491,857",
+      "url": "https://www.coingecko.com/en/categories/music"
+    },
+    {
+      "category": "Fan Token",
+      "market_cap": "$274,915,536",
+      "num_coins": "93",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "0.4%",
+      "volume_last_day": "$34,539,222",
+      "url": "https://www.coingecko.com/en/categories/fan-token"
+    },
+    {
+      "category": "Metagovernance",
+      "market_cap": "$271,688,833",
+      "num_coins": "6",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "1.4%",
+      "volume_last_day": "$16,930,388",
+      "url": "https://www.coingecko.com/en/categories/metagovernance"
+    },
+    {
+      "category": "Cybersecurity",
+      "market_cap": "$247,427,378",
+      "num_coins": "12",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.9%",
+      "volume_last_day": "$50,895,925",
+      "url": "https://www.coingecko.com/en/categories/cybersecurity"
+    },
+    {
+      "category": "Bridged DAI",
+      "market_cap": "$228,120,688",
+      "num_coins": "26",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "13.4%",
+      "volume_last_day": "$18,716,772",
+      "url": "https://www.coingecko.com/en/categories/bridged-dai"
+    },
+    {
+      "category": "Tokenized Treasury Bonds (T-Bonds)",
+      "market_cap": "$227,932,044",
+      "num_coins": "5",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$1,098.33",
+      "url": "https://www.coingecko.com/en/categories/tokenized-treasury-bonds-t-bonds"
+    },
+    {
+      "category": "Binance Megadrop",
+      "market_cap": "$223,798,202",
+      "num_coins": "2",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "8.4%",
+      "volume_last_day": "$95,224,849",
+      "url": "https://www.coingecko.com/en/categories/binance-megadrop"
+    },
+    {
+      "category": "Education",
+      "market_cap": "$207,067,592",
+      "num_coins": "9",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "3.0%",
+      "volume_last_day": "$15,100,603",
+      "url": "https://www.coingecko.com/en/categories/education"
+    },
+    {
+      "category": "Energy",
+      "market_cap": "$201,495,500",
+      "num_coins": "7",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "8.7%",
+      "volume_last_day": "$117,444,140",
+      "url": "https://www.coingecko.com/en/categories/energy"
+    },
+    {
+      "category": "Yield Optimizer",
+      "market_cap": "$194,638,130",
+      "num_coins": "5",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "5.1%",
+      "volume_last_day": "$16,790,431",
+      "url": "https://www.coingecko.com/en/categories/yield-optimizer"
+    },
+    {
+      "category": "Intent",
+      "market_cap": "$175,926,372",
+      "num_coins": "2",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "1.0%",
+      "volume_last_day": "$864,543",
+      "url": "https://www.coingecko.com/en/categories/intent"
+    },
+    {
+      "category": "ChainGPT Launchpad",
+      "market_cap": "$172,953,197",
+      "num_coins": "8",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "3.6%",
+      "volume_last_day": "$12,029,299",
+      "url": "https://www.coingecko.com/en/categories/chaingpt-pad"
+    },
+    {
+      "category": "Payment Solutions",
+      "market_cap": "$172,669,637",
+      "num_coins": "12",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.9%",
+      "volume_last_day": "$31,199,435",
+      "url": "https://www.coingecko.com/en/categories/payment-solutions"
+    },
+    {
+      "category": "Farcaster Ecosystem",
+      "market_cap": "$148,911,554",
+      "num_coins": "34",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "20.9%",
+      "volume_last_day": "$11,869,146",
+      "url": "https://www.coingecko.com/en/categories/farcaster-ecosystem"
+    },
+    {
+      "category": "Strategy Games",
+      "market_cap": "$144,574,478",
+      "num_coins": "5",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "21.4%",
+      "volume_last_day": "$21,766,895",
+      "url": "https://www.coingecko.com/en/categories/strategy-games"
+    },
+    {
+      "category": "Fractionalized NFT",
+      "market_cap": "$141,244,914",
+      "num_coins": "23",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "8.3%",
+      "volume_last_day": "$7,024,421",
+      "url": "https://www.coingecko.com/en/categories/fractionalized-nft"
+    },
+    {
+      "category": "Liquid Restaked SOL",
+      "market_cap": "$137,948,494",
+      "num_coins": "1",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "10.5%",
+      "volume_last_day": "$678,072",
+      "url": "https://www.coingecko.com/en/categories/liquid-restaked-sol"
+    },
+    {
+      "category": "Real Estate",
+      "market_cap": "$134,913,418",
+      "num_coins": "13",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "10.6%",
+      "volume_last_day": "$36,915,169",
+      "url": "https://www.coingecko.com/en/categories/real-estate"
+    },
+    {
+      "category": "Animal Racing",
+      "market_cap": "$134,119,254",
+      "num_coins": "10",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "9.4%",
+      "volume_last_day": "$940,961",
+      "url": "https://www.coingecko.com/en/categories/animal-racing"
+    },
+    {
+      "category": "Binance HODLer Airdrops",
+      "market_cap": "$126,583,734",
+      "num_coins": "1",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "12.1%",
+      "volume_last_day": "$28,103,281",
+      "url": "https://www.coingecko.com/en/categories/binance-hodler-airdrops"
+    },
+    {
+      "category": "Tokenized Silver",
+      "market_cap": "$117,521,285",
+      "num_coins": "2",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "2.1%",
+      "volume_last_day": "$65,387.74",
+      "url": "https://www.coingecko.com/en/categories/tokenized-silver"
+    },
+    {
+      "category": "Regenerative Finance (ReFi)",
+      "market_cap": "$111,493,970",
+      "num_coins": "10",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "2.3%",
+      "volume_last_day": "$1,503,929",
+      "url": "https://www.coingecko.com/en/categories/eco-friendly"
+    },
+    {
+      "category": "Venture Capital Portfolios",
+      "market_cap": "$111,089,890",
+      "num_coins": "1",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "72.0%",
+      "volume_last_day": "$7,716,036",
+      "url": "https://www.coingecko.com/en/categories/venture-capital-portfolios"
+    },
+    {
+      "category": "Parody Meme",
+      "market_cap": "$110,187,849",
+      "num_coins": "73",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "7.8%",
+      "volume_last_day": "$18,241,838",
+      "url": "https://www.coingecko.com/en/categories/parody-meme-coins"
+    },
+    {
+      "category": "Liquid Staking",
+      "market_cap": "$102,783,874",
+      "num_coins": "8",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "78.2%",
+      "volume_last_day": "$10,798,635",
+      "url": "https://www.coingecko.com/en/categories/liquid-staking"
+    },
+    {
+      "category": "Marketing",
+      "market_cap": "$99,539,674",
+      "num_coins": "5",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "17.3%",
+      "volume_last_day": "$9,988,347",
+      "url": "https://www.coingecko.com/en/categories/marketing"
+    },
+    {
+      "category": "Tokenized Treasury Bills (T-Bills)",
+      "market_cap": "$96,440,286",
+      "num_coins": "6",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "5.0%",
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/tokenized-t-bills"
+    },
+    {
+      "category": "Options",
+      "market_cap": "$94,445,494",
+      "num_coins": "14",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "9.4%",
+      "volume_last_day": "$2,357,721",
+      "url": "https://www.coingecko.com/en/categories/decentralized-options"
+    },
+    {
+      "category": "Healthcare",
+      "market_cap": "$85,062,099",
+      "num_coins": "11",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.5%",
+      "volume_last_day": "$4,044,098",
+      "url": "https://www.coingecko.com/en/categories/healthcare"
+    },
+    {
+      "category": "Racing Games",
+      "market_cap": "$83,077,552",
+      "num_coins": "7",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "5.8%",
+      "volume_last_day": "$1,622,530",
+      "url": "https://www.coingecko.com/en/categories/racing-games"
+    },
+    {
+      "category": "Synthetic Asset",
+      "market_cap": "$74,849,858",
+      "num_coins": "6",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$190,481",
+      "url": "https://www.coingecko.com/en/categories/synths"
+    },
+    {
+      "category": "Celebrity-Themed",
+      "market_cap": "$72,784,604",
+      "num_coins": "8",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "19.9%",
+      "volume_last_day": "$15,461,857",
+      "url": "https://www.coingecko.com/en/categories/celebrity-themed-coins"
+    },
+    {
+      "category": "Shooting Games",
+      "market_cap": "$72,782,197",
+      "num_coins": "15",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "23.0%",
+      "volume_last_day": "$6,629,657",
+      "url": "https://www.coingecko.com/en/categories/shooting-games"
+    },
+    {
+      "category": "Ohm Fork",
+      "market_cap": "$63,244,621",
+      "num_coins": "4",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "11.0%",
+      "volume_last_day": "$486,233",
+      "url": "https://www.coingecko.com/en/categories/ohm-fork"
+    },
+    {
+      "category": "Augmented Reality",
+      "market_cap": "$53,756,826",
+      "num_coins": "8",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "30.3%",
+      "volume_last_day": "$74,867,346",
+      "url": "https://www.coingecko.com/en/categories/augmented-reality"
+    },
+    {
+      "category": "Tourism",
+      "market_cap": "$53,441,232",
+      "num_coins": "9",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "8.0%",
+      "volume_last_day": "$2,403,090",
+      "url": "https://www.coingecko.com/en/categories/tourism"
+    },
+    {
+      "category": "Index",
+      "market_cap": "$48,058,176",
+      "num_coins": "13",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "8.1%",
+      "volume_last_day": "$118,156",
+      "url": "https://www.coingecko.com/en/categories/index-coin"
+    },
+    {
+      "category": "DeFi Index",
+      "market_cap": "$47,337,492",
+      "num_coins": "13",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "8.3%",
+      "volume_last_day": "$144,003",
+      "url": "https://www.coingecko.com/en/categories/defi-index"
+    },
+    {
+      "category": "Gotchiverse",
+      "market_cap": "$45,720,584",
+      "num_coins": "6",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "2.3%",
+      "volume_last_day": "$3,650,193",
+      "url": "https://www.coingecko.com/en/categories/gotchiverse"
+    },
+    {
+      "category": "TokenSets Ecosystem",
+      "market_cap": "$45,575,742",
+      "num_coins": "8",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "8.3%",
+      "volume_last_day": "$59,842.14",
+      "url": "https://www.coingecko.com/en/categories/tokensets"
+    },
+    {
+      "category": "Wall Street Bets Themed",
+      "market_cap": "$41,862,981",
+      "num_coins": "9",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "9.9%",
+      "volume_last_day": "$9,684,696",
+      "url": "https://www.coingecko.com/en/categories/wall-street-bets-themed-coins"
+    },
+    {
+      "category": "Camelot Launchpad",
+      "market_cap": "$39,785,551",
+      "num_coins": "11",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "3.2%",
+      "volume_last_day": "$1,157,863",
+      "url": "https://www.coingecko.com/en/categories/camelot-launchpad"
+    },
+    {
+      "category": "Solana Token-2022",
+      "market_cap": "$35,112,906",
+      "num_coins": "7",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "3.1%",
+      "volume_last_day": "$436,410",
+      "url": "https://www.coingecko.com/en/categories/token-2022"
+    },
+    {
+      "category": "On-chain Gaming",
+      "market_cap": "$32,236,234",
+      "num_coins": "2",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "51.6%",
+      "volume_last_day": "$2,225,938",
+      "url": "https://www.coingecko.com/en/categories/on-chain-gaming"
+    }
+  ],
+  "page-3": [
+    {
+      "category": "SGD Stablcoin",
+      "market_cap": "$28,774,810",
+      "num_coins": "1",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "2.6%",
+      "volume_last_day": "$14,300,472",
+      "url": "https://www.coingecko.com/en/categories/sgd-stablcoin"
+    },
+    {
+      "category": "Legal",
+      "market_cap": "$27,060,457",
+      "num_coins": "3",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "5.7%",
+      "volume_last_day": "$833,909",
+      "url": "https://www.coingecko.com/en/categories/legal"
+    },
+    {
+      "category": "Impossible Finance Launchpad",
+      "market_cap": "$22,516,651",
+      "num_coins": "3",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "13.4%",
+      "volume_last_day": "$7,358,957",
+      "url": "https://www.coingecko.com/en/categories/impossible-launchpad"
+    },
+    {
+      "category": "ERC 404",
+      "market_cap": "$21,187,878",
+      "num_coins": "27",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "9.7%",
+      "volume_last_day": "$3,348,621",
+      "url": "https://www.coingecko.com/en/categories/erc-404"
+    },
+    {
+      "category": "Retail",
+      "market_cap": "$20,829,615",
+      "num_coins": "8",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "15.9%",
+      "volume_last_day": "$782,646",
+      "url": "https://www.coingecko.com/en/categories/retail"
+    },
+    {
+      "category": "PAAL AI Launchpad",
+      "market_cap": "$20,475,382",
+      "num_coins": "2",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "21.1%",
+      "volume_last_day": "$1,204,294",
+      "url": "https://www.coingecko.com/en/categories/paal-ai"
+    },
+    {
+      "category": "IDR Stablecoin",
+      "market_cap": "$19,676,434",
+      "num_coins": "2",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "1.7%",
+      "volume_last_day": "$230,774",
+      "url": "https://www.coingecko.com/en/categories/idr-stablecoin"
+    },
+    {
+      "category": "AI Applications",
+      "market_cap": "$18,909,825",
+      "num_coins": "4",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "1442.4%",
+      "volume_last_day": "$2,271,530",
+      "url": "https://www.coingecko.com/en/categories/ai-applications"
+    },
+    {
+      "category": "Leveraged Token",
+      "market_cap": "$17,726,199",
+      "num_coins": "9",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "11.7%",
+      "volume_last_day": "$16,093.00",
+      "url": "https://www.coingecko.com/en/categories/leveraged-token"
+    },
+    {
+      "category": "VPN",
+      "market_cap": "$17,560,122",
+      "num_coins": "3",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "15.4%",
+      "volume_last_day": "$240,642",
+      "url": "https://www.coingecko.com/en/categories/vpn"
+    },
+    {
+      "category": "Reddit Points",
+      "market_cap": "$16,378,436",
+      "num_coins": "3",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "3.4%",
+      "volume_last_day": "$23,675.63",
+      "url": "https://www.coingecko.com/en/categories/reddit-points"
+    },
+    {
+      "category": "Fighting Games",
+      "market_cap": "$15,687,263",
+      "num_coins": "3",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "3.0%",
+      "volume_last_day": "$1,351,442",
+      "url": "https://www.coingecko.com/en/categories/fighting-games"
+    },
+    {
+      "category": "TRY Stablecoin",
+      "market_cap": "$15,528,432",
+      "num_coins": "1",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "1.2%",
+      "volume_last_day": "$540.86",
+      "url": "https://www.coingecko.com/en/categories/try-stablecoins"
+    },
+    {
+      "category": "Virtual Reality",
+      "market_cap": "$14,646,045",
+      "num_coins": "6",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "9.7%",
+      "volume_last_day": "$93,324.62",
+      "url": "https://www.coingecko.com/en/categories/virtual-reality"
+    },
+    {
+      "category": "JPY Stablecoin",
+      "market_cap": "$12,153,396",
+      "num_coins": "3",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "2.0%",
+      "volume_last_day": "$26,609.94",
+      "url": "https://www.coingecko.com/en/categories/jpy-stablecoin"
+    },
+    {
+      "category": "Wormhole Assets",
+      "market_cap": "$8,031,158",
+      "num_coins": "31",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "17.4%",
+      "volume_last_day": "$84,634,587",
+      "url": "https://www.coingecko.com/en/categories/wormhole-assets"
+    },
+    {
+      "category": "Farming-as-a-Service (FaaS)",
+      "market_cap": "$6,950,693",
+      "num_coins": "4",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "6.8%",
+      "volume_last_day": "$5,025.56",
+      "url": "https://www.coingecko.com/en/categories/farming-as-a-service-faas"
+    },
+    {
+      "category": "Kommunitas Launchpad",
+      "market_cap": "$6,855,140",
+      "num_coins": "14",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "10.6%",
+      "volume_last_day": "$1,247,120",
+      "url": "https://www.coingecko.com/en/categories/kommunitas"
+    },
+    {
+      "category": "NFT Index",
+      "market_cap": "$4,006,334",
+      "num_coins": "1",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "11.4%",
+      "volume_last_day": "$6,445.89",
+      "url": "https://www.coingecko.com/en/categories/nft-index"
+    },
+    {
+      "category": "ETF",
+      "market_cap": "$3,222,480",
+      "num_coins": "2",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "4.2%",
+      "volume_last_day": "$86,257.26",
+      "url": "https://www.coingecko.com/en/categories/etf"
+    },
+    {
+      "category": "CNY Stablecoin",
+      "market_cap": "$2,912,008",
+      "num_coins": "2",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.9%",
+      "volume_last_day": "$477.75",
+      "url": "https://www.coingecko.com/en/categories/cny-stablecoin"
+    },
+    {
+      "category": "Aave Tokens",
+      "market_cap": "$2,846,601",
+      "num_coins": "121",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "65.2%",
+      "volume_last_day": "$504,513",
+      "url": "https://www.coingecko.com/en/categories/aave-tokens"
+    },
+    {
+      "category": "Floor Protocol Tokens",
+      "market_cap": "$2,132,865",
+      "num_coins": "3",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "4.1%",
+      "volume_last_day": "$752.10",
+      "url": "https://www.coingecko.com/en/categories/flooring-protocol"
+    },
+    {
+      "category": "DN-404",
+      "market_cap": "$1,751,759",
+      "num_coins": "8",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "16.5%",
+      "volume_last_day": "$64,565.82",
+      "url": "https://www.coingecko.com/en/categories/dn-404"
+    },
+    {
+      "category": "SPL22",
+      "market_cap": "$1,121,549",
+      "num_coins": "2",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "7.8%",
+      "volume_last_day": "$11,623.08",
+      "url": "https://www.coingecko.com/en/categories/spl22"
+    },
+    {
+      "category": "Tokenized Assets",
+      "market_cap": "$1,112,724",
+      "num_coins": "1",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "22.3%",
+      "volume_last_day": "$7.94",
+      "url": "https://www.coingecko.com/en/categories/tokenized-products"
+    },
+    {
+      "category": "Yield Tokenization Product",
+      "market_cap": "$589,722",
+      "num_coins": "3",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "90.5%",
+      "volume_last_day": "$6,668,584",
+      "url": "https://www.coingecko.com/en/categories/yield-tokenization-product"
+    },
+    {
+      "category": "Recruitment",
+      "market_cap": "$150,802",
+      "num_coins": "2",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "2.9%",
+      "volume_last_day": "$318,918",
+      "url": "https://www.coingecko.com/en/categories/recruitment-solutions"
+    },
+    {
+      "category": "BitStarters Launchpad",
+      "market_cap": "$37,770.68",
+      "num_coins": "4",
+      "caret": "fas fa-fw fa-caret-down",
+      "last_7_days": "11.1%",
+      "volume_last_day": "$1,151,296",
+      "url": "https://www.coingecko.com/en/categories/bitstarters-launchpad"
+    },
+    {
+      "category": "RealT Tokens",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$750.18",
+      "url": "https://www.coingecko.com/en/categories/realt-tokens"
+    },
+    {
+      "category": "Centralized Finance (CeFi)",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/centralized-finance-cefi"
+    },
+    {
+      "category": "Charity",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$12,583.83",
+      "url": "https://www.coingecko.com/en/categories/charity"
+    },
+    {
+      "category": "GBP Stablecoin",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/gbp-stablecoin"
+    },
+    {
+      "category": "KRW Stablecoin",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/krw-stablecoin"
+    },
+    {
+      "category": "Yearn Vault Tokens",
+      "market_cap": null,
+      "num_coins": "20",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$406.52",
+      "url": "https://www.coingecko.com/en/categories/yearn-vault-tokens"
+    },
+    {
+      "category": "Tokenized Stock",
+      "market_cap": null,
+      "num_coins": "18",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$2,028.17",
+      "url": "https://www.coingecko.com/en/categories/tokenized-stock"
+    },
+    {
+      "category": "Anime-Themed",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/anime-themed-coins"
+    },
+    {
+      "category": "DRC-20",
+      "market_cap": null,
+      "num_coins": "10",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$551,198",
+      "url": "https://www.coingecko.com/en/categories/drc-20"
+    },
+    {
+      "category": "Commodity-backed Stablecoin",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$20,460.32",
+      "url": "https://www.coingecko.com/en/categories/commodity-backed-stablecoin"
+    },
+    {
+      "category": "Sticker-Themed Coins",
+      "market_cap": null,
+      "num_coins": "2",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$8,023.58",
+      "url": "https://www.coingecko.com/en/categories/sticker-themed-coin"
+    },
+    {
+      "category": "ERC20i",
+      "market_cap": null,
+      "num_coins": "5",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$1,776.61",
+      "url": "https://www.coingecko.com/en/categories/erc20i"
+    },
+    {
+      "category": "Duck-Themed",
+      "market_cap": null,
+      "num_coins": "6",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$59,210.89",
+      "url": "https://www.coingecko.com/en/categories/duck-themed-coins"
+    },
+    {
+      "category": "Tokenized Commodities",
+      "market_cap": null,
+      "num_coins": "2",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$235,764",
+      "url": "https://www.coingecko.com/en/categories/tokenized-commodities"
+    },
+    {
+      "category": "Index Coop Metaverse Index",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/index-coop-metaverse-index"
+    },
+    {
+      "category": "Atomicals (ARC-20)",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$982,137",
+      "url": "https://www.coingecko.com/en/categories/atomicals-arc-20"
+    },
+    {
+      "category": "SRC-20",
+      "market_cap": null,
+      "num_coins": "5",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$10,958.59",
+      "url": "https://www.coingecko.com/en/categories/src-20"
+    },
+    {
+      "category": "Liquid Restaked ETH",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$579.74",
+      "url": "https://www.coingecko.com/en/categories/liquid-restaked-eth"
+    },
+    {
+      "category": "Friend.tech Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/friend-tech"
+    },
+    {
+      "category": "Index Coop Index",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/index-coop-index"
+    },
+    {
+      "category": "Country-Themed Meme",
+      "market_cap": null,
+      "num_coins": "11",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$182,476",
+      "url": "https://www.coingecko.com/en/categories/country-themed-meme-coins"
+    },
+    {
+      "category": "Farming Games",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$4,620.85",
+      "url": "https://www.coingecko.com/en/categories/farming-games"
+    },
+    {
+      "category": "Tokenized Real Estate",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/tokenized-real-estate"
+    },
+    {
+      "category": "HyperXpad Launchpad",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/hyperxpad-launchpad"
+    },
+    {
+      "category": "ASC-20",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": "$12,594.37",
+      "url": "https://www.coingecko.com/en/categories/asc-20"
+    },
+    {
+      "category": "Centralized Exchange (CEX) Product",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/centralized-exchange-cex-product"
+    },
+    {
+      "category": "Centralized Exchange (CEX) Token",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": "fas fa-fw fa-caret-up",
+      "last_7_days": "0.0%",
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/centralized-exchange-cex-token"
+    },
+    {
+      "category": "Ethereum Ecosystem",
+      "market_cap": null,
+      "num_coins": "5053",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/ethereum-ecosystem"
+    },
+    {
+      "category": "BNB Chain Ecosystem",
+      "market_cap": null,
+      "num_coins": "2777",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/binance-smart-chain"
+    },
+    {
+      "category": "Solana Ecosystem",
+      "market_cap": null,
+      "num_coins": "1930",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/solana-ecosystem"
+    },
+    {
+      "category": "Polygon Ecosystem",
+      "market_cap": null,
+      "num_coins": "1177",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/polygon-ecosystem"
+    },
+    {
+      "category": "Arbitrum Ecosystem",
+      "market_cap": null,
+      "num_coins": "694",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/arbitrum-ecosystem"
+    },
+    {
+      "category": "Base Ecosystem",
+      "market_cap": null,
+      "num_coins": "740",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/base-ecosystem"
+    },
+    {
+      "category": "Avalanche Ecosystem",
+      "market_cap": null,
+      "num_coins": "447",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/avalanche-ecosystem"
+    },
+    {
+      "category": "Fantom Ecosystem",
+      "market_cap": null,
+      "num_coins": "256",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/fantom-ecosystem"
+    },
+    {
+      "category": "Optimism Ecosystem",
+      "market_cap": null,
+      "num_coins": "239",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/optimism-ecosystem"
+    },
+    {
+      "category": "Gnosis Chain Ecosystem",
+      "market_cap": null,
+      "num_coins": "123",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/xdai-ecosystem"
+    },
+    {
+      "category": "Cosmos Ecosystem",
+      "market_cap": null,
+      "num_coins": "158",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/cosmos-ecosystem"
+    },
+    {
+      "category": "Cronos Ecosystem",
+      "market_cap": null,
+      "num_coins": "116",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/cronos-ecosystem"
+    },
+    {
+      "category": "TON Ecosystem",
+      "market_cap": null,
+      "num_coins": "152",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/ton-ecosystem"
+    },
+    {
+      "category": "Harmony Ecosystem",
+      "market_cap": null,
+      "num_coins": "91",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/harmony-ecosystem"
+    },
+    {
+      "category": "Polkadot Ecosystem",
+      "market_cap": null,
+      "num_coins": "82",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/dot-ecosystem"
+    },
+    {
+      "category": "Tron Ecosystem",
+      "market_cap": null,
+      "num_coins": "87",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/tron-ecosystem"
+    },
+    {
+      "category": "Bitcoin Ecosystem",
+      "market_cap": null,
+      "num_coins": "87",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/bitcoin-ecosystem"
+    },
+    {
+      "category": "Cardano Ecosystem",
+      "market_cap": null,
+      "num_coins": "81",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/cardano-ecosystem"
+    },
+    {
+      "category": "Near Protocol Ecosystem",
+      "market_cap": null,
+      "num_coins": "79",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/near-protocol-ecosystem"
+    },
+    {
+      "category": "Chiliz Ecosystem",
+      "market_cap": null,
+      "num_coins": "86",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/chiliz-ecosystem"
+    },
+    {
+      "category": "Blast Ecosystem",
+      "market_cap": null,
+      "num_coins": "80",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/blast-ecosystem"
+    },
+    {
+      "category": "Linea Ecosystem",
+      "market_cap": null,
+      "num_coins": "75",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/linea-ecosystem"
+    },
+    {
+      "category": "Osmosis Ecosystem",
+      "market_cap": null,
+      "num_coins": "80",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/osmosis-ecosytem"
+    },
+    {
+      "category": "Bitcichain Ecosystem",
+      "market_cap": null,
+      "num_coins": "66",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/bitcichain-ecosystem"
+    },
+    {
+      "category": "Moonriver Ecosystem",
+      "market_cap": null,
+      "num_coins": "42",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/moonriver-ecosystem"
+    },
+    {
+      "category": "Sui Ecosystem",
+      "market_cap": null,
+      "num_coins": "49",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/sui-ecosystem"
+    },
+    {
+      "category": "Metis Ecosystem",
+      "market_cap": null,
+      "num_coins": "47",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/metis-ecosystem"
+    },
+    {
+      "category": "Algorand Ecosystem",
+      "market_cap": null,
+      "num_coins": "39",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/algorand-ecosystem"
+    },
+    {
+      "category": "Tezos Ecosystem",
+      "market_cap": null,
+      "num_coins": "25",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/tezos-ecosystem"
+    },
+    {
+      "category": "Mantle Ecosystem",
+      "market_cap": null,
+      "num_coins": "37",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/mantle-ecosystem"
+    },
+    {
+      "category": "Energi Ecosystem",
+      "market_cap": null,
+      "num_coins": "46",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/energi-ecosystem"
+    },
+    {
+      "category": "Hedera Ecosystem",
+      "market_cap": null,
+      "num_coins": "41",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/hedera-ecosystem"
+    },
+    {
+      "category": "Aptos Ecosystem",
+      "market_cap": null,
+      "num_coins": "38",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/aptos-ecosystem"
+    },
+    {
+      "category": "Scroll Ecosystem",
+      "market_cap": null,
+      "num_coins": "36",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/scroll-ecosystem"
+    },
+    {
+      "category": "MultiversX Ecosystem",
+      "market_cap": null,
+      "num_coins": "37",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/multiversx-ecosystem"
+    },
+    {
+      "category": "Internet Computer Ecosystem",
+      "market_cap": null,
+      "num_coins": "34",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/internet-computer-ecosystem"
+    },
+    {
+      "category": "Terra Ecosystem",
+      "market_cap": null,
+      "num_coins": "12",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/terra-ecosystem"
+    },
+    {
+      "category": "Klaytn Ecosystem",
+      "market_cap": null,
+      "num_coins": "28",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/klaytn-ecosystem"
+    },
+    {
+      "category": "Shibarium Ecosystem",
+      "market_cap": null,
+      "num_coins": "20",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/shibarium"
+    },
+    {
+      "category": "Archway Ecosystem",
+      "market_cap": null,
+      "num_coins": "29",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/archway-ecosystem"
+    },
+    {
+      "category": "Canto Ecosystem",
+      "market_cap": null,
+      "num_coins": "18",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/canto-ecosystem"
+    },
+    {
+      "category": "Manta Network Ecosystem",
+      "market_cap": null,
+      "num_coins": "29",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/manta-network-ecosystem"
+    },
+    {
+      "category": "Sora Ecosystem",
+      "market_cap": null,
+      "num_coins": "28",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/sora-ecosystem"
+    },
+    {
+      "category": "Kava Ecosystem",
+      "market_cap": null,
+      "num_coins": "28",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/kava-ecosystem"
+    }
+  ],
+  "page-4": [
+    {
+      "category": "Injective Ecosystem",
+      "market_cap": null,
+      "num_coins": "26",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/injective-ecosystem"
+    },
+    {
+      "category": "Mode Ecosystem",
+      "market_cap": null,
+      "num_coins": "26",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/mode-ecosystem"
+    },
+    {
+      "category": "Stellar Ecosystem",
+      "market_cap": null,
+      "num_coins": "26",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/stellar-ecosystem"
+    },
+    {
+      "category": "Celo Ecosystem",
+      "market_cap": null,
+      "num_coins": "26",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/celo-ecosystem"
+    },
+    {
+      "category": "Zilliqa Ecosystem",
+      "market_cap": null,
+      "num_coins": "15",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/zilliqa-ecosystem"
+    },
+    {
+      "category": "EthereumPoW Ecosystem",
+      "market_cap": null,
+      "num_coins": "8",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/ethereumpow-ecosystem"
+    },
+    {
+      "category": "OEC Ecosystem",
+      "market_cap": null,
+      "num_coins": "15",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/oec-ecosystem"
+    },
+    {
+      "category": "Merlin Chain Ecosystem",
+      "market_cap": null,
+      "num_coins": "24",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/merlin-chain-ecosystem"
+    },
+    {
+      "category": "HECO Chain Ecosystem",
+      "market_cap": null,
+      "num_coins": "12",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/heco-chain-ecosystem"
+    },
+    {
+      "category": "Sei Ecosystem",
+      "market_cap": null,
+      "num_coins": "14",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/sei-ecosystem"
+    },
+    {
+      "category": "Secret Ecosystem",
+      "market_cap": null,
+      "num_coins": "21",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/secret-ecosystem"
+    },
+    {
+      "category": "IoTeX Ecosystem",
+      "market_cap": null,
+      "num_coins": "18",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/iotex-ecosystem"
+    },
+    {
+      "category": "Stacks Ecosystem",
+      "market_cap": null,
+      "num_coins": "18",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/stacks-ecosystem"
+    },
+    {
+      "category": "KardiaChain Ecosystem",
+      "market_cap": null,
+      "num_coins": "8",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/kardiachain-ecosystem"
+    },
+    {
+      "category": "Arbitrum Nova Ecosystem",
+      "market_cap": null,
+      "num_coins": "17",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/arbitrum-nova-ecosystem"
+    },
+    {
+      "category": "Velas Ecosystem",
+      "market_cap": null,
+      "num_coins": "18",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/velas-ecosystem"
+    },
+    {
+      "category": "Fuse Ecosystem",
+      "market_cap": null,
+      "num_coins": "19",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/fuse-ecosystem"
+    },
+    {
+      "category": "XDC Ecosystem",
+      "market_cap": null,
+      "num_coins": "16",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/xdc-ecosystem"
+    },
+    {
+      "category": "Kujira Ecosystem",
+      "market_cap": null,
+      "num_coins": "18",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/kujira-ecosystem"
+    },
+    {
+      "category": "Radix Ecosystem",
+      "market_cap": null,
+      "num_coins": "18",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/radix-ecosystem"
+    },
+    {
+      "category": "Polygon zkEVM Ecosystem",
+      "market_cap": null,
+      "num_coins": "17",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/polygon-zkevm-ecosystem"
+    },
+    {
+      "category": "Starknet Ecosystem",
+      "market_cap": null,
+      "num_coins": "15",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/starknet-ecosystem"
+    },
+    {
+      "category": "X Layer Ecosystem",
+      "market_cap": null,
+      "num_coins": "16",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/x-layer-ecosystem"
+    },
+    {
+      "category": "Telos Ecosystem",
+      "market_cap": null,
+      "num_coins": "13",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/telos-ecosystem"
+    },
+    {
+      "category": "Milkomeda (Cardano) Ecosystem",
+      "market_cap": null,
+      "num_coins": "15",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/milkomeda-cardano-ecosystem"
+    },
+    {
+      "category": "Aurora Ecosystem",
+      "market_cap": null,
+      "num_coins": "14",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/aurora-ecosystem"
+    },
+    {
+      "category": "Skale Ecosystem",
+      "market_cap": null,
+      "num_coins": "13",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/skale-ecosystem"
+    },
+    {
+      "category": "Ronin Ecosystem",
+      "market_cap": null,
+      "num_coins": "13",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/ronin-ecosystem"
+    },
+    {
+      "category": "Terra Classic Ecosystem",
+      "market_cap": null,
+      "num_coins": "12",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/terra-classic-ecosystem"
+    },
+    {
+      "category": "WEMIX Ecosystem",
+      "market_cap": null,
+      "num_coins": "10",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/wemix-ecosystem"
+    },
+    {
+      "category": "Evmos Ecosystem",
+      "market_cap": null,
+      "num_coins": "13",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/evmos-ecosystem"
+    },
+    {
+      "category": "Ergo Ecosystem",
+      "market_cap": null,
+      "num_coins": "13",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/ergo-ecosystem"
+    },
+    {
+      "category": "Neon Ecosystem",
+      "market_cap": null,
+      "num_coins": "12",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/neon-ecosystem"
+    },
+    {
+      "category": "Viction Ecocystem",
+      "market_cap": null,
+      "num_coins": "12",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/viction-ecocystem"
+    },
+    {
+      "category": "Core Ecosystem",
+      "market_cap": null,
+      "num_coins": "12",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/core-ecosystem"
+    },
+    {
+      "category": "Meter Ecosystem",
+      "market_cap": null,
+      "num_coins": "11",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/meter-ecosystem"
+    },
+    {
+      "category": "Astar Ecosystem",
+      "market_cap": null,
+      "num_coins": "11",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/astar-ecosystem"
+    },
+    {
+      "category": "Cronos zkEVM Ecosystem",
+      "market_cap": null,
+      "num_coins": "11",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/cronos-zkevm-ecosystem"
+    },
+    {
+      "category": "ZetaChain Ecosystem",
+      "market_cap": null,
+      "num_coins": "10",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/zetachain-ecosystem"
+    },
+    {
+      "category": "IOTA EVM Ecosystem",
+      "market_cap": null,
+      "num_coins": "10",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/iota-evm-ecosystem"
+    },
+    {
+      "category": "Dogechain Ecosystem",
+      "market_cap": null,
+      "num_coins": "8",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/dogechain-ecosystem"
+    },
+    {
+      "category": "Zedxion Ecosystem",
+      "market_cap": null,
+      "num_coins": "9",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/zedxion-ecosystem"
+    },
+    {
+      "category": "Edgeware Ecosystem",
+      "market_cap": null,
+      "num_coins": "8",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/edgeware-ecosystem"
+    },
+    {
+      "category": "Step Network Ecosystem",
+      "market_cap": null,
+      "num_coins": "9",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/step-network-ecosystem"
+    },
+    {
+      "category": "Beam Ecosystem",
+      "market_cap": null,
+      "num_coins": "9",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/beam-ecosystem"
+    },
+    {
+      "category": "Hyperliquid Ecosystem",
+      "market_cap": null,
+      "num_coins": "9",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/hyperliquid-ecosystem"
+    },
+    {
+      "category": "Re.al Ecosystem",
+      "market_cap": null,
+      "num_coins": "9",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/re-al-ecosystem"
+    },
+    {
+      "category": "Theta Ecosystem",
+      "market_cap": null,
+      "num_coins": "9",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/theta-ecosystem"
+    },
+    {
+      "category": "Sei v2 Ecosystem",
+      "market_cap": null,
+      "num_coins": "9",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/sei-v2-ecosystem"
+    },
+    {
+      "category": "Hydra Ecosystem",
+      "market_cap": null,
+      "num_coins": "7",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/hydra-ecosystem"
+    },
+    {
+      "category": "Degen Ecosystem",
+      "market_cap": null,
+      "num_coins": "8",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/degen-ecosystem"
+    },
+    {
+      "category": "Kadena Ecosystem",
+      "market_cap": null,
+      "num_coins": "4",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/kadena-ecosystem"
+    },
+    {
+      "category": "Syscoin NEVM Ecosystem",
+      "market_cap": null,
+      "num_coins": "7",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/syscoin-nevm-ecosystem"
+    },
+    {
+      "category": "Boba Network Ecosystem",
+      "market_cap": null,
+      "num_coins": "7",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/boba-network-ecosystem"
+    },
+    {
+      "category": "Elastos Smart Contract Chain Ecosystem",
+      "market_cap": null,
+      "num_coins": "7",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/elastos-smart-contract-chain-ecosystem"
+    },
+    {
+      "category": "Immutable Ecosystem",
+      "market_cap": null,
+      "num_coins": "7",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/immutable-ecosystem"
+    },
+    {
+      "category": "zkLink Nova Ecosystem",
+      "market_cap": null,
+      "num_coins": "7",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/zklink-nova-ecosystem"
+    },
+    {
+      "category": "Huobi ECO Chain Ecosystem",
+      "market_cap": null,
+      "num_coins": "7",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/huobi-eco-chain-ecosystem"
+    },
+    {
+      "category": "XRP Ledger Ecocystem",
+      "market_cap": null,
+      "num_coins": "7",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/xrp-ledger-ecocystem"
+    },
+    {
+      "category": "Oasis Emerald Ecosystem",
+      "market_cap": null,
+      "num_coins": "7",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/oasis-emerald-ecosystem"
+    },
+    {
+      "category": "Sanko Ecosystem",
+      "market_cap": null,
+      "num_coins": "7",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/sanko-ecosystem"
+    },
+    {
+      "category": "Conflux Ecosystem",
+      "market_cap": null,
+      "num_coins": "6",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/conflux-ecosystem"
+    },
+    {
+      "category": "opBNB Ecocystem",
+      "market_cap": null,
+      "num_coins": "6",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/opbnb-ecocystem"
+    },
+    {
+      "category": "NEO Ecosystem",
+      "market_cap": null,
+      "num_coins": "6",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/neo-ecosystem"
+    },
+    {
+      "category": "Kucoin Community Chain Ecosystem",
+      "market_cap": null,
+      "num_coins": "6",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/kucoin-community-chain-ecosystem"
+    },
+    {
+      "category": "Flow Ecosystem",
+      "market_cap": null,
+      "num_coins": "5",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/flow-ecosystem"
+    },
+    {
+      "category": "Flare Network Ecosystem",
+      "market_cap": null,
+      "num_coins": "5",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/flare-network-ecosystem"
+    },
+    {
+      "category": "ThunderCore Ecosystem",
+      "market_cap": null,
+      "num_coins": "5",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/thundercore-ecosystem"
+    },
+    {
+      "category": "Oraichain Ecosystem",
+      "market_cap": null,
+      "num_coins": "5",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/oraichain-ecosystem"
+    },
+    {
+      "category": "GalaChain Ecosystem",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/galachain-ecosystem"
+    },
+    {
+      "category": "Astar zkEVM Ecosystem",
+      "market_cap": null,
+      "num_coins": "4",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/astar-zkevm-ecosystem"
+    },
+    {
+      "category": "BounceBit Ecosystem",
+      "market_cap": null,
+      "num_coins": "4",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/bouncebit-ecosystem"
+    },
+    {
+      "category": "Juno Ecosystem",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/juno-ecosystem"
+    },
+    {
+      "category": "Fraxtal Ecosystem",
+      "market_cap": null,
+      "num_coins": "4",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/fraxtal-ecosystem"
+    },
+    {
+      "category": "Alephium Ecosystem",
+      "market_cap": null,
+      "num_coins": "4",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/alephium-ecosystem"
+    },
+    {
+      "category": "Oasys Ecosystem",
+      "market_cap": null,
+      "num_coins": "4",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/oasys-ecosystem"
+    },
+    {
+      "category": "ShimmerEVM Ecosystem",
+      "market_cap": null,
+      "num_coins": "4",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/shimmerevm-ecosystem"
+    },
+    {
+      "category": "Bitgert Ecosystem",
+      "market_cap": null,
+      "num_coins": "4",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/bitgert-ecosystem"
+    },
+    {
+      "category": "Lukso Ecosystem",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/lukso-ecosystem"
+    },
+    {
+      "category": "Q Mainnet Ecosystem",
+      "market_cap": null,
+      "num_coins": "4",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/q-mainnet-ecosystem"
+    },
+    {
+      "category": "Songbird Ecosystem",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/songbird-ecosystem"
+    },
+    {
+      "category": "Zora Ecosystem",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/zora-ecosystem"
+    },
+    {
+      "category": "Venom Ecosystem",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/venom-ecosystem"
+    },
+    {
+      "category": "Ethereum Classic Ecosystem",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/ethereum-classic-ecosystem"
+    },
+    {
+      "category": "Massa Ecosystem",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/massa-ecosystem"
+    },
+    {
+      "category": "Rootstock Ecosystem",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/rootstock-ecosystem"
+    },
+    {
+      "category": "Oasis Sapphire Ecosystem",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/oasis-sapphire-ecosystem"
+    },
+    {
+      "category": "Endurance Ecosystem",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/endurance-ecosystem"
+    },
+    {
+      "category": "inEVM Ecosystem",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/inevm-ecosystem"
+    },
+    {
+      "category": "LightLink Ecosystem",
+      "market_cap": null,
+      "num_coins": "2",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/lightlink-ecosystem"
+    },
+    {
+      "category": "Bahamut Ecosystem",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/bahamut-ecosystem"
+    },
+    {
+      "category": "Bitlayer Ecosystem",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/bitlayer-ecosystem"
+    },
+    {
+      "category": "OKT Chain Ecosystem",
+      "market_cap": null,
+      "num_coins": "3",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/okt-chain-ecosystem"
+    },
+    {
+      "category": "XAI Ecosystem",
+      "market_cap": null,
+      "num_coins": "2",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/xai-ecosystem"
+    },
+    {
+      "category": "BeamPrivacy Ecosystem",
+      "market_cap": null,
+      "num_coins": "2",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/beamprivacy-ecosystem"
+    },
+    {
+      "category": "BEVM Ecosystem",
+      "market_cap": null,
+      "num_coins": "2",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/bevm-ecosystem"
+    },
+    {
+      "category": "Haqq Network Ecosystem",
+      "market_cap": null,
+      "num_coins": "2",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/haqq-network-ecosystem"
+    },
+    {
+      "category": "Etherlink Ecosystem",
+      "market_cap": null,
+      "num_coins": "2",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/etherlink-ecosystem"
+    },
+    {
+      "category": "BitTorrent Ecosystem",
+      "market_cap": null,
+      "num_coins": "2",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/bittorrent-ecosystem"
+    },
+    {
+      "category": "Waves Ecosystem",
+      "market_cap": null,
+      "num_coins": "2",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/waves-ecosystem"
+    }
+  ],
+  "page-5": [
+    {
+      "category": "Wanchain Ecosystem",
+      "market_cap": null,
+      "num_coins": "2",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/wanchain-ecosystem"
+    },
+    {
+      "category": "Migaloo Ecosystem",
+      "market_cap": null,
+      "num_coins": "2",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/migaloo-ecosystem"
+    },
+    {
+      "category": "Bitrock Ecosystem",
+      "market_cap": null,
+      "num_coins": "2",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/bitrock-ecosystem"
+    },
+    {
+      "category": "Mint Ecosystem",
+      "market_cap": null,
+      "num_coins": "2",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/mint-ecosystem"
+    },
+    {
+      "category": "Genesys Network Ecosystem",
+      "market_cap": null,
+      "num_coins": "2",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/genesys-network-ecosystem"
+    },
+    {
+      "category": "Apex Chain Ecosystem",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/apex-chain-ecosystem"
+    },
+    {
+      "category": "Tenet Ecosystem",
+      "market_cap": null,
+      "num_coins": "2",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/tenet-ecosystem"
+    },
+    {
+      "category": "Ancient8 Ecosystem",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/ancient8-ecosystem"
+    },
+    {
+      "category": "EOS Ecosystem",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/eos-ecosystem"
+    },
+    {
+      "category": "Onchain Ecosystem",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/onchain-ecosystem"
+    },
+    {
+      "category": "Ultron Ecosystem",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/ultron-ecosystem"
+    },
+    {
+      "category": "Cyber Ecosystem",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/cyber-ecosystem"
+    },
+    {
+      "category": "Zircuit Ecosystem",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/zircuit-ecosystem"
+    },
+    {
+      "category": "Zano Ecosystem",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/zano-ecosystem"
+    },
+    {
+      "category": "Mainnetz Ecosystem",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/mainnetz-ecosystem"
+    },
+    {
+      "category": "Boba BNB Ecosystem",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/boba-bnb-ecosystem"
+    },
+    {
+      "category": "DFK Chain Ecosystem",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/dfk-chain-ecosystem"
+    },
+    {
+      "category": "Chromia Ecosystem",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/chromia-ecosystem"
+    },
+    {
+      "category": "VeChain Ecosystem",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/vechain-ecosystem"
+    },
+    {
+      "category": "Vanar Chain Ecosystem",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/vanar-chain-ecosystem"
+    },
+    {
+      "category": "Aelf Ecosystem",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/aelf-ecosystem"
+    },
+    {
+      "category": "DefiMetaChain Ecosystem",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/defimetachain-ecosystem"
+    },
+    {
+      "category": "Berachain Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/berachain-ecosystem"
+    },
+    {
+      "category": "Loopring Ecosystem",
+      "market_cap": null,
+      "num_coins": "1",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/loopring-ecosystem"
+    },
+    {
+      "category": "Celer Network",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/celer-network"
+    },
+    {
+      "category": "Elysium Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/elysium-ecosystem"
+    },
+    {
+      "category": "PlatON Network Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/platon-network-ecosystem"
+    },
+    {
+      "category": "Redstone Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/redstone-ecosystem"
+    },
+    {
+      "category": "MaxxChain Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/maxxchain-ecosystem"
+    },
+    {
+      "category": "Combo Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/combo-ecosystem"
+    },
+    {
+      "category": "MultiVAC Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/multivac-ecosystem"
+    },
+    {
+      "category": "Omnia Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/omnia-ecosystem"
+    },
+    {
+      "category": "Larissa Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/larissa-ecosystem"
+    },
+    {
+      "category": "Alveychain Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/alveychain-ecosystem"
+    },
+    {
+      "category": "Ham Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/ham-ecosystem"
+    },
+    {
+      "category": "GraphLinq Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/graphlinq-ecosystem"
+    },
+    {
+      "category": "UTON Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/uton-ecosystem"
+    },
+    {
+      "category": "Lung Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/lung-ecosystem"
+    },
+    {
+      "category": "Nahmii Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/nahmii-ecosystem"
+    },
+    {
+      "category": "Proof of Memes Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/proof-of-memes-ecosystem"
+    },
+    {
+      "category": "Fantom Sonic Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/fantom-sonic-ecosystem"
+    },
+    {
+      "category": "SmartBCH Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/smartbch-ecosystem"
+    },
+    {
+      "category": "Qitmeer Network Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/qitmeer-network-ecosystem"
+    },
+    {
+      "category": "XT Smart Chain Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/xt-smart-chain-ecosystem"
+    },
+    {
+      "category": "Vyvo Smart Chain Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/vyvo-smart-chain-ecosystem"
+    },
+    {
+      "category": "Moonchain Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/moonchain-ecosystem"
+    },
+    {
+      "category": "ENULS Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/enuls-ecosystem"
+    },
+    {
+      "category": "Rari Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/rari-ecosystem"
+    },
+    {
+      "category": "AlienX Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/alienx-ecosystem"
+    },
+    {
+      "category": "Gravity Alpha Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/gravity-alpha-ecosystem"
+    },
+    {
+      "category": "Jibchain Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/jibchain-ecosystem"
+    },
+    {
+      "category": "Saakuru Ecosystem",
+      "market_cap": null,
+      "num_coins": "0",
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": "https://www.coingecko.com/en/categories/saakuru-ecosystem"
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    },
+    {
+      "category": null,
+      "market_cap": null,
+      "num_coins": null,
+      "caret": null,
+      "last_7_days": null,
+      "volume_last_day": null,
+      "url": null
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+src/superset
+src/postgres
+src/plugins
+src/minio
+src/logs
+src/config
+
+# ignore credentials
+src/dags/spark_app/helpers/credentials.py
+src/dags/helpers/credentials.py
+src/my_cmds.txt
+
